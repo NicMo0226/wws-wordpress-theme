@@ -1,7 +1,7 @@
 === WWS ===
 
-Contributors: automattic
-Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+Contributors: Nic and Dan Moorhouse - Wyre Web Solutions
+Bootstrap 5 ready WordPress theme, with a little extra functionality - ready to build on.
 
 Requires at least: 4.5
 Tested up to: 5.4
